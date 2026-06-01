@@ -1,0 +1,5 @@
+C:\ImgToAscii\dist\ImgToAscii.exe
+C:\ImgToAscii\dist\ImgToAscii.dll
+C:\ImgToAscii\dist\ImgToAscii.deps.json
+C:\ImgToAscii\dist\ImgToAscii.runtimeconfig.json
+C:\ImgToAscii\dist\ImgToAscii.pdb
